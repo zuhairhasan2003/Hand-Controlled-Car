@@ -1,17 +1,19 @@
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"
-#include "hardware/pwm.h"
 #include "FreeRTOS.h"
 #include "task.h"
+#include "semphr.h"
 #include <stdio.h>
 
 static bool * is_safe;
-uint16_t safe_dim;
+SemaphoreHandle_t is_safe_mutex;
+uint32_t max_dist;
+
+TaskHandle_t determine_if_safe_task_handle;
 
 // GPIOS
 const uint8_t trig = 0;
 const uint8_t echo = 1;
-const uint servo = 3;
 
 void setup_gpio()
 {
@@ -19,36 +21,6 @@ void setup_gpio()
     gpio_init(echo);
     gpio_set_dir(trig, true);
     gpio_set_dir(echo, false);
-
-    gpio_set_function(servo, GPIO_FUNC_PWM);
-}
-
-void rotate_servo(float deg)
-{
-    // 976 = min
-    // 4883 = max
-    uint16_t level = 976 + (deg / 180.0f) * (4883 - 976);
-    pwm_set_gpio_level(servo, level);
-}
-
-void rotate_servo_task(void *)
-{
-    uint slice_num = pwm_gpio_to_slice_num(servo);
-    pwm_set_clkdiv(slice_num, 64.0f); 
-    pwm_set_wrap(slice_num, 39062); 
-    pwm_set_enabled(slice_num, true);
-    
-    while (true)
-    {
-        vTaskDelay(pdTICKS_TO_MS(500));
-        rotate_servo(0);
-        vTaskDelay(pdTICKS_TO_MS(500));
-        rotate_servo(90);
-        vTaskDelay(pdTICKS_TO_MS(500));
-        rotate_servo(180);
-        vTaskDelay(pdTICKS_TO_MS(500));
-        rotate_servo(90);
-    }
 }
 
 uint32_t read_ultrasonic()
@@ -57,7 +29,7 @@ uint32_t read_ultrasonic()
     for (uint8_t i = 0; i < 3; i++)
     {
         gpio_put(trig , 1);
-        vTaskDelay(pdMS_TO_TICKS(0.01)); // sending 10us pulse
+        busy_wait_us(10); // sending 10us pulse
         gpio_put(trig , 0);
 
         absolute_time_t start = 0, end = 0;
@@ -85,6 +57,22 @@ void determine_if_safe_task(void *)
     while (true)
     {
         uint32_t dist = read_ultrasonic();
+        if (xSemaphoreTake(is_safe_mutex, pdMS_TO_TICKS(1))) // acquire mutex to write to is_safe
+        {
+            if(dist < max_dist)
+            {
+                *is_safe = false;
+            }
+            else
+            {
+                *is_safe = true;
+            }
+            xSemaphoreGive(is_safe_mutex);
+        }
+        else
+        {
+            printf("ERROR : Couldnt acquire mutex\n");
+        }
         printf("%d cm\n", dist);
     }
 }
@@ -92,14 +80,15 @@ void determine_if_safe_task(void *)
 int main(void) {
     stdio_init_all();
 
-    safe_dim = 5;
-    is_safe = (bool *) pvPortCalloc(safe_dim, sizeof(bool));
+    is_safe = (bool *) pvPortCalloc(1, sizeof(bool));
+    is_safe_mutex = xSemaphoreCreateMutex();
+    max_dist = 25;
 
     setup_gpio();
 
-    xTaskCreate(determine_if_safe_task, "Determine if safe", 256, NULL, 3, NULL);
-
-    // xTaskCreate(rotate_servo_task, "Rotate servo task", 256, NULL, 1, NULL);
+    xTaskCreate(determine_if_safe_task, "Determine if safe", 256, NULL, 3, determine_if_safe_task_handle);
+    vTaskCoreAffinitySet(determine_if_safe_task_handle, (1 << 1));
+    vTaskPreemptionDisable(determine_if_safe_task_handle);  // ensuring safety, by running "determine_if_safe_task" on a seprate core and disabling preemption
 
     vTaskStartScheduler();
 
@@ -114,8 +103,6 @@ int main(void) {
     1       echo - ultrasonic sensor
     VBUS    5V   - ultrasonic sensor
     GND (3) GND  - ultrasonic sensor
-
-    3       pwm  - servo
 */
 
 
