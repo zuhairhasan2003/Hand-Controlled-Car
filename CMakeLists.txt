@@ -34,6 +34,8 @@ target_link_libraries(your_app
     pico_stdlib
     FreeRTOS-Kernel-Heap4
     hardware_gpio
+    pico_cyw43_arch_lwip_sys_freertos 
+    pico_multicore
 )
 
 # Enable USB stdio if needed

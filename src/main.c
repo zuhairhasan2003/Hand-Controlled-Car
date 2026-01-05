@@ -3,6 +3,8 @@
 #include "FreeRTOS.h"
 #include "task.h"
 #include "semphr.h"
+#include "lwip/sockets.h"
+#include "pico/cyw43_arch.h"
 #include <stdio.h>
 
 static bool * is_safe;
@@ -71,10 +73,15 @@ void determine_if_safe_task(void *)
         }
         else
         {
-            printf("ERROR : Couldnt acquire mutex\n");
+            printf("ERROR : Couldnt acquire 'is_safe_mutex'\n");
         }
         printf("%d cm\n", dist);
     }
+}
+
+void html_server_task(void *)
+{
+    cyw43_arch_init();
 }
 
 int main(void) {
@@ -86,9 +93,7 @@ int main(void) {
 
     setup_gpio();
 
-    xTaskCreate(determine_if_safe_task, "Determine if safe", 256, NULL, 3, determine_if_safe_task_handle);
-    vTaskCoreAffinitySet(determine_if_safe_task_handle, (1 << 1));
-    vTaskPreemptionDisable(determine_if_safe_task_handle);  // ensuring safety, by running "determine_if_safe_task" on a seprate core and disabling preemption
+    xTaskCreate(determine_if_safe_task, "Determine if safe", 256, NULL, 3, &determine_if_safe_task_handle);
 
     vTaskStartScheduler();
 
