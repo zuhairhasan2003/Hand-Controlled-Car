@@ -1,0 +1,5 @@
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm-install/pioasm/pioasm.exe
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm-install/pioasm/pioasmTargets.cmake
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm-install/pioasm/pioasmConfig.cmake
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

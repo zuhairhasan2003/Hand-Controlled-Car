@@ -17,12 +17,44 @@ TaskHandle_t determine_if_safe_task_handle;
 const uint8_t trig = 0;
 const uint8_t echo = 1;
 
+const uint8_t right_motor_forward = 14; 
+const uint8_t right_motor_backward = 15; 
+
+const uint8_t left_motor_forward = 16; 
+const uint8_t left_motor_backward = 17; 
+
+uint16_t movement_time_ms = 5;
+
+QueueHandle_t turn_right_queue;
+QueueHandle_t turn_left_queue;
+QueueHandle_t move_back_queue;
+
+typedef enum {
+    reverse,
+    left,
+    right
+} Motor_Cmd;
+
+QueueHandle_t motor_cmd_queue;
+
 void setup_gpio()
 {
     gpio_init(trig);
     gpio_init(echo);
     gpio_set_dir(trig, true);
     gpio_set_dir(echo, false);
+
+    gpio_init(right_motor_forward);
+    gpio_set_dir(right_motor_forward, true);
+
+    gpio_init(right_motor_backward);
+    gpio_set_dir(right_motor_backward, true);
+
+    gpio_init(left_motor_forward);
+    gpio_set_dir(left_motor_forward, true);
+
+    gpio_init(left_motor_backward);
+    gpio_set_dir(left_motor_backward, true);
 }
 
 uint32_t read_ultrasonic()
@@ -79,6 +111,59 @@ void determine_if_safe_task(void *)
     }
 }
 
+void move_forward(void *)
+{
+    
+}
+
+void motor_movement_task(void *)
+{
+    while(true)
+    {
+        Motor_Cmd cmd;
+        xQueueReceive(motor_cmd_queue, &cmd, portMAX_DELAY);
+
+        switch (cmd)
+        {
+        case left:
+            printf("LEFT\n");
+            gpio_put(left_motor_backward, 1);
+            gpio_put(right_motor_forward, 1);
+            
+            vTaskDelay(pdMS_TO_TICKS(movement_time_ms));
+            
+            gpio_put(left_motor_backward, 0);
+            gpio_put(right_motor_forward, 0);
+            break;
+            
+        case right:
+            printf("RIGHT\n");
+            gpio_put(right_motor_backward, 1);
+            gpio_put(left_motor_forward, 1);
+            
+            vTaskDelay(pdMS_TO_TICKS(movement_time_ms));
+            
+            gpio_put(right_motor_backward, 0);
+            gpio_put(left_motor_forward, 0);
+            break;
+            
+        case reverse:
+            printf("REVERSE\n");
+            gpio_put(right_motor_backward, 1);
+            gpio_put(left_motor_backward, 1);
+            
+            vTaskDelay(pdMS_TO_TICKS(movement_time_ms));
+
+            gpio_put(right_motor_backward, 0);
+            gpio_put(left_motor_backward, 0);
+            break;
+        
+        default:
+            break;
+        }
+    }
+}
+
 void html_server_task(void *)
 {
     cyw43_arch_init();
@@ -110,31 +195,36 @@ void html_server_task(void *)
     "<button id='r' onclick='s(\"right\")'>></button>"
     "<button id='d' onclick='s(\"down\")'>v</button>"
     "</div><script>function s(d){fetch('/?'+d)}</script></body></html>";
+
     
     while (true)
     {
         socklen_t addr_size = sizeof(addr);
-        char buffer[1024];
+        char buffer[512];
 
         int client_sock = lwip_accept(s, (struct sockaddr *)&addr, &addr_size);
         int len = lwip_recv(client_sock, buffer, sizeof(buffer), 0);
+
         if(len > 0)
         {
             if(strstr(buffer, "/?up") != NULL)
             {
-                // code to make car move forward
+                printf("Up\n");
             }
             else if(strstr(buffer, "/?down") != NULL)
             {
-                // code to make car move backwards
+                Motor_Cmd val = reverse;
+                xQueueSend(motor_cmd_queue, &val, portMAX_DELAY);
             }
             else if(strstr(buffer, "/?right") != NULL)
             {
-                // code to make car turn right
+                Motor_Cmd val = right;
+                xQueueSend(motor_cmd_queue, &val, portMAX_DELAY);
             }
             else if(strstr(buffer, "/?left") != NULL)
             {
-                // code to make car turn left
+                Motor_Cmd val = left;
+                xQueueSend(motor_cmd_queue, &val, portMAX_DELAY);
             }
         }
         lwip_send(client_sock, html_page, strlen(html_page), 0);
@@ -149,10 +239,13 @@ int main(void) {
     is_safe_mutex = xSemaphoreCreateMutex();
     max_dist = 25;
 
+    motor_cmd_queue = xQueueCreate(10, sizeof(Motor_Cmd));
+
     setup_gpio();
 
     xTaskCreate(determine_if_safe_task, "Determine if safe", 256, NULL, 3, &determine_if_safe_task_handle);
-    xTaskCreate(html_server_task, "Html server task", 2048, NULL, 3, NULL);
+    xTaskCreate(html_server_task, "Html server task", 2048, NULL, 1, NULL);
+    xTaskCreate(motor_movement_task, "Motor movement task", 256, NULL, 2, NULL);
 
     vTaskStartScheduler();
 
@@ -167,6 +260,12 @@ int main(void) {
     1       echo - ultrasonic sensor
     VBUS    5V   - ultrasonic sensor
     GND (3) GND  - ultrasonic sensor
+
+    14      right motor forward
+    15      right motor backward
+
+    16      left motor forward
+    17      left motor backward
 */
 
 
@@ -176,3 +275,6 @@ int main(void) {
     2 = MEDIUM
     3 = HIGH
 */
+
+
+// 1 learning : 1 peripheral per tasks

@@ -1,0 +1,7 @@
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm/CMakeFiles/rebuild_cache.dir
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm/CMakeFiles/list_install_components.dir
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm/CMakeFiles/install.dir
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm/CMakeFiles/install/local.dir
+C:/Users/zhasanr/Desktop/Hand Controlled Car/build/pioasm/CMakeFiles/install/strip.dir
