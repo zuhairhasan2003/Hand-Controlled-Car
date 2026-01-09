@@ -23,6 +23,8 @@ const uint8_t right_motor_backward = 15;
 const uint8_t left_motor_forward = 16; 
 const uint8_t left_motor_backward = 17; 
 
+const uint8_t is_safe_led = 18; 
+
 uint16_t movement_time_ms = 5;
 
 QueueHandle_t turn_right_queue;
@@ -56,6 +58,10 @@ void setup_gpio()
 
     gpio_init(left_motor_backward);
     gpio_set_dir(left_motor_backward, true);
+
+    gpio_init(is_safe_led);
+    gpio_set_dir(is_safe_led, true);
+    gpio_put(is_safe_led, 1);  // starting safe
 }
 
 uint32_t read_ultrasonic()
@@ -103,6 +109,7 @@ void determine_if_safe_task(void *)
                 *is_safe = true;
             }
             xSemaphoreGive(is_safe_mutex);
+            gpio_put(is_safe_led, *is_safe);
         }
         else
         {
@@ -284,13 +291,14 @@ int main(void) {
     0       trig - ultrasonic sensor
     1       echo - ultrasonic sensor
     VBUS    5V   - ultrasonic sensor
-    GND (3) GND  - ultrasonic sensor
 
     14      right motor forward
     15      right motor backward
 
     16      left motor forward
     17      left motor backward
+
+    18      is safe led - onn if safe, off if unsafe to move forward
 */
 
 
