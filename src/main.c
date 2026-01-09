@@ -32,7 +32,8 @@ QueueHandle_t move_back_queue;
 typedef enum {
     reverse,
     left,
-    right
+    right,
+    forward
 } Motor_Cmd;
 
 QueueHandle_t motor_cmd_queue;
@@ -107,19 +108,19 @@ void determine_if_safe_task(void *)
         {
             printf("ERROR : Couldnt acquire 'is_safe_mutex'\n");
         }
-        printf("%d cm\n", dist);
+        vTaskDelay(pdMS_TO_TICKS(2));
     }
-}
-
-void move_forward(void *)
-{
-    
 }
 
 void motor_movement_task(void *)
 {
     while(true)
     {
+        gpio_put(left_motor_forward, 0);
+        gpio_put(left_motor_backward, 0);
+        gpio_put(right_motor_forward, 0);
+        gpio_put(right_motor_backward, 0);
+
         Motor_Cmd cmd;
         xQueueReceive(motor_cmd_queue, &cmd, portMAX_DELAY);
 
@@ -156,6 +157,29 @@ void motor_movement_task(void *)
 
             gpio_put(right_motor_backward, 0);
             gpio_put(left_motor_backward, 0);
+            break;
+
+        case forward:
+            if(xSemaphoreTake(is_safe_mutex, pdMS_TO_TICKS(2)))
+            {
+                if(*is_safe)
+                {
+                    printf("FORWARD\n");
+                    gpio_put(right_motor_forward, 1);
+                    gpio_put(left_motor_forward, 1);
+                    
+                    vTaskDelay(pdMS_TO_TICKS(movement_time_ms));
+        
+                    gpio_put(right_motor_forward, 0);
+                    gpio_put(left_motor_forward, 0);
+                }
+                else
+                {
+                    printf("FORWARD - NOT SAFE\n");
+                }
+
+                xSemaphoreGive(is_safe_mutex);
+            }
             break;
         
         default:
@@ -209,7 +233,8 @@ void html_server_task(void *)
         {
             if(strstr(buffer, "/?up") != NULL)
             {
-                printf("Up\n");
+                Motor_Cmd val = forward;
+                xQueueSend(motor_cmd_queue, &val, portMAX_DELAY);
             }
             else if(strstr(buffer, "/?down") != NULL)
             {

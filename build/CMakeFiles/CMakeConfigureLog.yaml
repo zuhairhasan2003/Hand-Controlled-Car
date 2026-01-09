@@ -44,7 +44,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -52,6 +51,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -105,7 +106,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -113,6 +113,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -166,7 +168,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -174,6 +175,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -227,7 +230,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -235,6 +237,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -284,7 +288,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -292,6 +295,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -393,15 +398,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/samu.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/samu.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/samu"
-      - "C:/Program Files (x86)/ACMEGuardian/ninja-build.com"
-      - "C:/Program Files (x86)/ACMEGuardian/ninja-build.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/ninja-build"
-      - "C:/Program Files (x86)/ACMEGuardian/ninja.com"
-      - "C:/Program Files (x86)/ACMEGuardian/ninja.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/ninja"
-      - "C:/Program Files (x86)/ACMEGuardian/samu.com"
-      - "C:/Program Files (x86)/ACMEGuardian/samu.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/samu"
       - "C:/Program Files/Microsoft VS Code/bin/ninja-build.com"
       - "C:/Program Files/Microsoft VS Code/bin/ninja-build.exe"
       - "C:/Program Files/Microsoft VS Code/bin/ninja-build"
@@ -465,6 +461,24 @@ events:
       - "C:/Program Files (x86)/Quarantine/samu.com"
       - "C:/Program Files (x86)/Quarantine/samu.exe"
       - "C:/Program Files (x86)/Quarantine/samu"
+      - "C:/Program Files/Amazon/Guardian/ninja-build.com"
+      - "C:/Program Files/Amazon/Guardian/ninja-build.exe"
+      - "C:/Program Files/Amazon/Guardian/ninja-build"
+      - "C:/Program Files/Amazon/Guardian/ninja.com"
+      - "C:/Program Files/Amazon/Guardian/ninja.exe"
+      - "C:/Program Files/Amazon/Guardian/ninja"
+      - "C:/Program Files/Amazon/Guardian/samu.com"
+      - "C:/Program Files/Amazon/Guardian/samu.exe"
+      - "C:/Program Files/Amazon/Guardian/samu"
+      - "C:/Program Files/Amazon/ACME/ninja-build.com"
+      - "C:/Program Files/Amazon/ACME/ninja-build.exe"
+      - "C:/Program Files/Amazon/ACME/ninja-build"
+      - "C:/Program Files/Amazon/ACME/ninja.com"
+      - "C:/Program Files/Amazon/ACME/ninja.exe"
+      - "C:/Program Files/Amazon/ACME/ninja"
+      - "C:/Program Files/Amazon/ACME/samu.com"
+      - "C:/Program Files/Amazon/ACME/samu.exe"
+      - "C:/Program Files/Amazon/ACME/samu"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/ninja-build.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/ninja-build.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/ninja-build"
@@ -518,7 +532,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -526,6 +539,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -575,7 +590,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -583,6 +597,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -674,7 +690,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -682,6 +697,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -747,7 +764,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -755,6 +771,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -779,7 +797,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -787,6 +804,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -830,7 +849,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -838,6 +856,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -862,7 +882,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -870,6 +889,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -913,7 +934,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -921,6 +941,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -945,7 +967,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -953,6 +974,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -996,7 +1019,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -1004,6 +1026,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -1028,7 +1052,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -1036,6 +1059,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1079,7 +1104,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -1087,6 +1111,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -1111,7 +1137,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -1119,6 +1144,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1162,7 +1189,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -1170,6 +1196,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -1194,7 +1222,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -1202,6 +1229,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1245,7 +1274,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -1253,6 +1281,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -1296,9 +1326,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-dlltool.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-dlltool.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-dlltool"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-dlltool.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-dlltool.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-dlltool"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-dlltool.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-dlltool.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-dlltool"
@@ -1320,6 +1347,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-dlltool.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-dlltool.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-dlltool"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-dlltool.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-dlltool.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-dlltool"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-dlltool.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-dlltool.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-dlltool"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-dlltool.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-dlltool.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-dlltool"
@@ -1380,9 +1413,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/dlltool.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/dlltool.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/dlltool"
-      - "C:/Program Files (x86)/ACMEGuardian/dlltool.com"
-      - "C:/Program Files (x86)/ACMEGuardian/dlltool.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/dlltool"
       - "C:/Program Files/Microsoft VS Code/bin/dlltool.com"
       - "C:/Program Files/Microsoft VS Code/bin/dlltool.exe"
       - "C:/Program Files/Microsoft VS Code/bin/dlltool"
@@ -1404,6 +1434,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/dlltool.com"
       - "C:/Program Files (x86)/Quarantine/dlltool.exe"
       - "C:/Program Files (x86)/Quarantine/dlltool"
+      - "C:/Program Files/Amazon/Guardian/dlltool.com"
+      - "C:/Program Files/Amazon/Guardian/dlltool.exe"
+      - "C:/Program Files/Amazon/Guardian/dlltool"
+      - "C:/Program Files/Amazon/ACME/dlltool.com"
+      - "C:/Program Files/Amazon/ACME/dlltool.exe"
+      - "C:/Program Files/Amazon/ACME/dlltool"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/dlltool.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/dlltool.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/dlltool"
@@ -1442,7 +1478,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -1450,6 +1485,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1493,7 +1530,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -1501,6 +1537,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -1525,7 +1563,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -1533,6 +1570,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1576,7 +1615,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -1584,6 +1622,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -1627,9 +1667,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-tapi.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-tapi.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-tapi"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-tapi.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-tapi.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-tapi"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-tapi.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-tapi.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-tapi"
@@ -1651,6 +1688,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-tapi.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-tapi.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-tapi"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-tapi.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-tapi.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-tapi"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-tapi.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-tapi.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-tapi"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-tapi.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-tapi.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-tapi"
@@ -1711,9 +1754,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/tapi.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/tapi.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/tapi"
-      - "C:/Program Files (x86)/ACMEGuardian/tapi.com"
-      - "C:/Program Files (x86)/ACMEGuardian/tapi.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/tapi"
       - "C:/Program Files/Microsoft VS Code/bin/tapi.com"
       - "C:/Program Files/Microsoft VS Code/bin/tapi.exe"
       - "C:/Program Files/Microsoft VS Code/bin/tapi"
@@ -1735,6 +1775,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/tapi.com"
       - "C:/Program Files (x86)/Quarantine/tapi.exe"
       - "C:/Program Files (x86)/Quarantine/tapi"
+      - "C:/Program Files/Amazon/Guardian/tapi.com"
+      - "C:/Program Files/Amazon/Guardian/tapi.exe"
+      - "C:/Program Files/Amazon/Guardian/tapi"
+      - "C:/Program Files/Amazon/ACME/tapi.com"
+      - "C:/Program Files/Amazon/ACME/tapi.exe"
+      - "C:/Program Files/Amazon/ACME/tapi"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/tapi.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/tapi.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/tapi"
@@ -1775,7 +1821,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -1783,6 +1828,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1828,7 +1875,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -1836,6 +1882,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -1879,9 +1927,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.2.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.2.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.2"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.2.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.2.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.2"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.2.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.2.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.2"
@@ -1903,6 +1948,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.2.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.2.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.2"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.2.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.2.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.2"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.2.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.2.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.2"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.2.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.2.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.2"
@@ -1963,9 +2014,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15"
@@ -1987,6 +2035,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15"
@@ -2047,9 +2101,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar15.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar15.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar15"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar15.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar15.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar15"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar15.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar15.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar15"
@@ -2071,6 +2122,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar15.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar15.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar15"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar15.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar15.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar15"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar15.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar15.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar15"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar15.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar15.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar15"
@@ -2112,7 +2169,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -2120,6 +2176,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -2165,7 +2223,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -2173,6 +2230,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -2216,9 +2275,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.2.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.2.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.2"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.2.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.2.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.2"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.2.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.2.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.2"
@@ -2240,6 +2296,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.2.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.2.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.2"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.2.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.2.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.2"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.2.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.2.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.2"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.2.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.2.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.2"
@@ -2300,9 +2362,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15"
@@ -2324,6 +2383,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15"
@@ -2384,9 +2449,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib15.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib15.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib15"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib15.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib15.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib15"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib15.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib15.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib15"
@@ -2408,6 +2470,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib15.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib15.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib15"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib15.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib15.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib15"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib15.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib15.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib15"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib15.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib15.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib15"
@@ -2449,7 +2517,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -2457,6 +2524,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -2506,7 +2575,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -2514,6 +2582,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -2605,7 +2675,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -2613,6 +2682,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -2680,7 +2751,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -2688,6 +2758,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -2731,9 +2803,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.2.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.2.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.2"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.2.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.2.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.2"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.2.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.2.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.2"
@@ -2755,6 +2824,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.2.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.2.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.2"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.2.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.2.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.2"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.2.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.2.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.2"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.2.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.2.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.2"
@@ -2815,9 +2890,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-15"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-15"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-15"
@@ -2839,6 +2911,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-15"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-15"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-15"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-15"
@@ -2899,9 +2977,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar15.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar15.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar15"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar15.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar15.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar15"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar15.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar15.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar15"
@@ -2923,6 +2998,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar15.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar15.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar15"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar15.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar15.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar15"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar15.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar15.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar15"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar15.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar15.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar15"
@@ -2964,7 +3045,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -2972,6 +3052,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -3017,7 +3099,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -3025,6 +3106,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -3068,9 +3151,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.2.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.2.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.2"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.2.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.2.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.2"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.2.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.2.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.2"
@@ -3092,6 +3172,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.2.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.2.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.2"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.2.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.2.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.2"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.2.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.2.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.2"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.2.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.2.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.2"
@@ -3152,9 +3238,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-15"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-15"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-15"
@@ -3176,6 +3259,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-15"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-15"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-15"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-15"
@@ -3236,9 +3325,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib15.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib15.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib15"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib15.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib15.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib15"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib15.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib15.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib15"
@@ -3260,6 +3346,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib15.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib15.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib15"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib15.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib15.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib15"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib15.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib15.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib15"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib15.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib15.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib15"
@@ -3301,7 +3393,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -3309,6 +3400,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -3329,8 +3422,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-f9ku2k"
-      binary: "C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-f9ku2k"
+      source: "C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-mfipct"
+      binary: "C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-mfipct"
     cmakeVariables:
       CMAKE_C_FLAGS: "-mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse"
       CMAKE_C_FLAGS_DEBUG: "-Og -g"
@@ -3341,10 +3434,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-f9ku2k'
+        Change Dir: 'C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-mfipct'
         
-        Run Build Command(s): C:/Users/zhasanr/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/ninja.exe -v cmTC_b5b83
-        [1/2] C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse    -v -o CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c"
+        Run Build Command(s): C:/Users/zhasanr/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/ninja.exe -v cmTC_e8a67
+        [1/2] C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse    -v -o CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE
         Target: arm-none-eabi
@@ -3352,8 +3445,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 15.2.1 20251203 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) 
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b5b83.dir/'
-         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/cc1.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/ -isysroot C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b5b83.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -version -o C:\\Users\\zhasanr\\AppData\\Local\\Temp\\cc0zQU7e.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e8a67.dir/'
+         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/cc1.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/ -isysroot C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_e8a67.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -version -o C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccna3Set.s
         GNU C23 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) version 15.2.1 20251203 (arm-none-eabi)
         	compiled by GNU C version 13-win32, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -3370,13 +3463,13 @@ events:
          C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: 0ca2b613ecc9aadefc9364d3e25b876f
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b5b83.dir/'
-         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj C:\\Users\\zhasanr\\AppData\\Local\\Temp\\cc0zQU7e.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e8a67.dir/'
+         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccna3Set.s
         GNU assembler version 2.45.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) 2.45.1.20251203
         COMPILER_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.'
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib  -v CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj -o cmTC_b5b83.elf   && cd ."
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib  -v CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj -o cmTC_e8a67.elf   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE
         COLLECT_LTO_WRAPPER=C:/Program\\ Files/Arm/GNU\\ Toolchain\\ mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe
@@ -3387,10 +3480,10 @@ events:
         gcc version 15.2.1 20251203 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) 
         COMPILER_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_b5b83.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_b5b83.elf.'
-         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/collect2.exe -plugin C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/liblto_plugin.dll -plugin-opt=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccVGF8Ue.res --sysroot=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -X -o cmTC_b5b83.elf -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1 -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_e8a67.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_e8a67.elf.'
+         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/collect2.exe -plugin C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/liblto_plugin.dll -plugin-opt=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdhbiZH.res --sysroot=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -X -o cmTC_e8a67.elf -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1 -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj
         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00008000
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_b5b83.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_b5b83.elf.'
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_e8a67.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_e8a67.elf.'
         
       exitCode: 0
   -
@@ -3423,10 +3516,10 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-f9ku2k']
+        ignore line: [Change Dir: 'C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-mfipct']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/Users/zhasanr/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/ninja.exe -v cmTC_b5b83]
-        ignore line: [[1/2] C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse    -v -o CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): C:/Users/zhasanr/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/ninja.exe -v cmTC_e8a67]
+        ignore line: [[1/2] C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse    -v -o CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE]
         ignore line: [Target: arm-none-eabi]
@@ -3434,8 +3527,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 15.2.1 20251203 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b5b83.dir/']
-        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/cc1.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/ -isysroot C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b5b83.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -version -o C:\\Users\\zhasanr\\AppData\\Local\\Temp\\cc0zQU7e.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e8a67.dir/']
+        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/cc1.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/ -isysroot C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_e8a67.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -version -o C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccna3Set.s]
         ignore line: [GNU C23 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) version 15.2.1 20251203 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 13-win32  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -3452,8 +3545,8 @@ events:
         ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 0ca2b613ecc9aadefc9364d3e25b876f]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b5b83.dir/']
-        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj C:\\Users\\zhasanr\\AppData\\Local\\Temp\\cc0zQU7e.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e8a67.dir/']
+        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccna3Set.s]
         ignore line: [GNU assembler version 2.45.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) 2.45.1.20251203]
         ignore line: [COMPILER_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/]
@@ -3465,8 +3558,8 @@ events:
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.']
-        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib  -v CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj -o cmTC_b5b83.elf   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib  -v CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj -o cmTC_e8a67.elf   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Program\\ Files/Arm/GNU\\ Toolchain\\ mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe]
@@ -3485,11 +3578,11 @@ events:
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_b5b83.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_b5b83.elf.']
-        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/collect2.exe -plugin C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/liblto_plugin.dll -plugin-opt=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccVGF8Ue.res --sysroot=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -X -o cmTC_b5b83.elf -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1 -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_b5b83.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_e8a67.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_e8a67.elf.']
+        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/collect2.exe -plugin C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/liblto_plugin.dll -plugin-opt=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdhbiZH.res --sysroot=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -X -o cmTC_e8a67.elf -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1 -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_e8a67.dir/CMakeCCompilerABI.c.obj]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start]
         ignore line: [ defaulting to 00008000]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_b5b83.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_b5b83.elf.']
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_e8a67.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_e8a67.elf.']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -3507,8 +3600,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-e4jihw"
-      binary: "C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-e4jihw"
+      source: "C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-n7pw6i"
+      binary: "C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-n7pw6i"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "-mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse"
       CMAKE_CXX_FLAGS_DEBUG: "-Og -g"
@@ -3520,10 +3613,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-e4jihw'
+        Change Dir: 'C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-n7pw6i'
         
-        Run Build Command(s): C:/Users/zhasanr/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/ninja.exe -v cmTC_e1ffe
-        [1/2] C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse    -v -o CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): C:/Users/zhasanr/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/ninja.exe -v cmTC_7a696
+        [1/2] C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse    -v -o CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE
         Target: arm-none-eabi
@@ -3531,8 +3624,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 15.2.1 20251203 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) 
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e1ffe.dir/'
-         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/cc1plus.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/ -isysroot C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_e1ffe.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -version -o C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdmXlVH.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_7a696.dir/'
+         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/cc1plus.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/ -isysroot C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_7a696.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -version -o C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdvP59h.s
         GNU C++17 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) version 15.2.1 20251203 (arm-none-eabi)
         	compiled by GNU C version 13-win32, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -3555,13 +3648,13 @@ events:
          C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: a6fd4b302ab728f1813a6023559f4720
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e1ffe.dir/'
-         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdmXlVH.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_7a696.dir/'
+         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdvP59h.s
         GNU assembler version 2.45.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) 2.45.1.20251203
         COMPILER_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib  -v CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_e1ffe.elf   && cd ."
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib  -v CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_7a696.elf   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE
         COLLECT_LTO_WRAPPER=C:/Program\\ Files/Arm/GNU\\ Toolchain\\ mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe
@@ -3572,10 +3665,10 @@ events:
         gcc version 15.2.1 20251203 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) 
         COMPILER_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/;C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_e1ffe.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_e1ffe.elf.'
-         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/collect2.exe -plugin C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/liblto_plugin.dll -plugin-opt=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccnRaS8S.res --sysroot=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -X -o cmTC_e1ffe.elf -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1 -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_7a696.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_7a696.elf.'
+         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/collect2.exe -plugin C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/liblto_plugin.dll -plugin-opt=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccmj9d0j.res --sysroot=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -X -o cmTC_7a696.elf -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1 -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj
         C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00008000
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_e1ffe.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_e1ffe.elf.'
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_7a696.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_7a696.elf.'
         
       exitCode: 0
   -
@@ -3614,10 +3707,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-e4jihw']
+        ignore line: [Change Dir: 'C:/Users/zhasanr/Desktop/Hand Controlled Car/build/CMakeFiles/CMakeScratch/TryCompile-n7pw6i']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/Users/zhasanr/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/ninja.exe -v cmTC_e1ffe]
-        ignore line: [[1/2] C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse    -v -o CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): C:/Users/zhasanr/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/ninja.exe -v cmTC_7a696]
+        ignore line: [[1/2] C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse    -v -o CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE]
         ignore line: [Target: arm-none-eabi]
@@ -3625,8 +3718,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 15.2.1 20251203 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e1ffe.dir/']
-        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/cc1plus.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/ -isysroot C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_e1ffe.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -version -o C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdmXlVH.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_7a696.dir/']
+        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/cc1plus.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/ -isysroot C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_7a696.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -version -o C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdvP59h.s]
         ignore line: [GNU C++17 (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) version 15.2.1 20251203 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 13-win32  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -3649,8 +3742,8 @@ events:
         ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: a6fd4b302ab728f1813a6023559f4720]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e1ffe.dir/']
-        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdmXlVH.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_7a696.dir/']
+        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccdvP59h.s]
         ignore line: [GNU assembler version 2.45.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 15.2.Rel1 (Build arm-15.86)) 2.45.1.20251203]
         ignore line: [COMPILER_PATH=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/]
@@ -3662,8 +3755,8 @@ events:
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib  -v CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_e1ffe.elf   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-v' '-o' 'CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib  -v CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_7a696.elf   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR10B2~1.EXE]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Program\\ Files/Arm/GNU\\ Toolchain\\ mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe]
@@ -3682,11 +3775,11 @@ events:
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_e1ffe.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_e1ffe.elf.']
-        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/collect2.exe -plugin C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/liblto_plugin.dll -plugin-opt=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccnRaS8S.res --sysroot=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -X -o cmTC_e1ffe.elf -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1 -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_e1ffe.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_7a696.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_7a696.elf.']
+        ignore line: [ C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/collect2.exe -plugin C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/liblto_plugin.dll -plugin-opt=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/15.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\zhasanr\\AppData\\Local\\Temp\\ccmj9d0j.res --sysroot=C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -X -o cmTC_7a696.elf -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1 -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib -LC:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_7a696.dir/CMakeCXXCompilerABI.cpp.obj]
         ignore line: [C:/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start]
         ignore line: [ defaulting to 00008000]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_e1ffe.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_e1ffe.elf.']
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_7a696.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_7a696.elf.']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -3742,7 +3835,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -3750,6 +3842,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -3793,9 +3887,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-"
@@ -3817,6 +3908,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-"
@@ -3877,9 +3974,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ar-"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ar-"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-"
@@ -3901,6 +3995,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ar-"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ar-"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ar-"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ar-"
@@ -3942,7 +4042,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -3950,6 +4049,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -3996,7 +4097,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -4004,6 +4104,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -4047,9 +4149,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-"
@@ -4071,6 +4170,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-"
@@ -4131,9 +4236,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/arm-none-eabi-gcc-ranlib-"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/arm-none-eabi-gcc-ranlib-"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-"
@@ -4155,6 +4257,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files (x86)/Quarantine/arm-none-eabi-gcc-ranlib-"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Program Files/Amazon/Guardian/arm-none-eabi-gcc-ranlib-"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Program Files/Amazon/ACME/arm-none-eabi-gcc-ranlib-"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/arm-none-eabi-gcc-ranlib-"
@@ -4196,7 +4304,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -4204,6 +4311,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -4345,14 +4454,6 @@ events:
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Program Files (x86)/ACMEGuardian/picotoolConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files (x86)/ACMEGuardian/picotool-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
         path: "C:/Program Files/Microsoft VS Code/picotoolConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -4406,6 +4507,22 @@ events:
         reason: "no_exist"
       -
         path: "C:/Program Files (x86)/Quarantine/picotool-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Amazon/Guardian/picotoolConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Amazon/Guardian/picotool-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Amazon/ACME/picotoolConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Amazon/ACME/picotool-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -4525,7 +4642,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -4533,6 +4649,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -4589,7 +4707,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -4597,6 +4714,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -4651,9 +4770,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/git.cmd.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/git.cmd.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/git.cmd"
-      - "C:/Program Files (x86)/ACMEGuardian/git.cmd.com"
-      - "C:/Program Files (x86)/ACMEGuardian/git.cmd.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/git.cmd"
       - "C:/Program Files/Microsoft VS Code/bin/git.cmd.com"
       - "C:/Program Files/Microsoft VS Code/bin/git.cmd.exe"
       - "C:/Program Files/Microsoft VS Code/bin/git.cmd"
@@ -4675,6 +4791,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/git.cmd.com"
       - "C:/Program Files (x86)/Quarantine/git.cmd.exe"
       - "C:/Program Files (x86)/Quarantine/git.cmd"
+      - "C:/Program Files/Amazon/Guardian/git.cmd.com"
+      - "C:/Program Files/Amazon/Guardian/git.cmd.exe"
+      - "C:/Program Files/Amazon/Guardian/git.cmd"
+      - "C:/Program Files/Amazon/ACME/git.cmd.com"
+      - "C:/Program Files/Amazon/ACME/git.cmd.exe"
+      - "C:/Program Files/Amazon/ACME/git.cmd"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/git.cmd.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/git.cmd.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/git.cmd"
@@ -4774,9 +4896,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/git.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/git.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/git"
-      - "C:/Program Files (x86)/ACMEGuardian/git.com"
-      - "C:/Program Files (x86)/ACMEGuardian/git.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/git"
       - "C:/Program Files/Microsoft VS Code/bin/git.com"
       - "C:/Program Files/Microsoft VS Code/bin/git.exe"
       - "C:/Program Files/Microsoft VS Code/bin/git"
@@ -4806,7 +4925,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -4814,6 +4932,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -7342,7 +7462,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -7350,6 +7469,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -7495,14 +7616,6 @@ events:
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Program Files (x86)/ACMEGuardian/pioasmConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files (x86)/ACMEGuardian/pioasm-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
         path: "C:/Program Files/Microsoft VS Code/pioasmConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -7556,6 +7669,22 @@ events:
         reason: "no_exist"
       -
         path: "C:/Program Files (x86)/Quarantine/pioasm-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Amazon/Guardian/pioasmConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Amazon/Guardian/pioasm-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Amazon/ACME/pioasmConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Amazon/ACME/pioasm-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -7675,7 +7804,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -7683,6 +7811,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -7730,7 +7860,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -7738,6 +7867,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -7796,9 +7927,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/doxygen.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/doxygen.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/doxygen"
-      - "C:/Program Files (x86)/ACMEGuardian/doxygen.com"
-      - "C:/Program Files (x86)/ACMEGuardian/doxygen.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/doxygen"
       - "C:/Program Files/Microsoft VS Code/bin/doxygen.com"
       - "C:/Program Files/Microsoft VS Code/bin/doxygen.exe"
       - "C:/Program Files/Microsoft VS Code/bin/doxygen"
@@ -7820,6 +7948,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/doxygen.com"
       - "C:/Program Files (x86)/Quarantine/doxygen.exe"
       - "C:/Program Files (x86)/Quarantine/doxygen"
+      - "C:/Program Files/Amazon/Guardian/doxygen.com"
+      - "C:/Program Files/Amazon/Guardian/doxygen.exe"
+      - "C:/Program Files/Amazon/Guardian/doxygen"
+      - "C:/Program Files/Amazon/ACME/doxygen.com"
+      - "C:/Program Files/Amazon/ACME/doxygen.exe"
+      - "C:/Program Files/Amazon/ACME/doxygen"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/doxygen.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/doxygen.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/doxygen"
@@ -7914,7 +8048,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -7922,6 +8055,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -7969,7 +8104,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/dotnet/"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/"
-      - "C:/Program Files (x86)/ACMEGuardian/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
@@ -7977,6 +8111,8 @@ events:
       - "C:/Program Files/Amazon/FOPAzureADMAnagementApp/"
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Quarantine/"
+      - "C:/Program Files/Amazon/Guardian/"
+      - "C:/Program Files/Amazon/ACME/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/zhasanr/AppData/Local/Microsoft/WindowsApps/"
@@ -8038,9 +8174,6 @@ events:
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/dot.com"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/dot.exe"
       - "C:/Program Files/Common Files/AmazonMidwayClientSuite/bin/dot"
-      - "C:/Program Files (x86)/ACMEGuardian/dot.com"
-      - "C:/Program Files (x86)/ACMEGuardian/dot.exe"
-      - "C:/Program Files (x86)/ACMEGuardian/dot"
       - "C:/Program Files/Microsoft VS Code/bin/dot.com"
       - "C:/Program Files/Microsoft VS Code/bin/dot.exe"
       - "C:/Program Files/Microsoft VS Code/bin/dot"
@@ -8062,6 +8195,12 @@ events:
       - "C:/Program Files (x86)/Quarantine/dot.com"
       - "C:/Program Files (x86)/Quarantine/dot.exe"
       - "C:/Program Files (x86)/Quarantine/dot"
+      - "C:/Program Files/Amazon/Guardian/dot.com"
+      - "C:/Program Files/Amazon/Guardian/dot.exe"
+      - "C:/Program Files/Amazon/Guardian/dot"
+      - "C:/Program Files/Amazon/ACME/dot.com"
+      - "C:/Program Files/Amazon/ACME/dot.exe"
+      - "C:/Program Files/Amazon/ACME/dot"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/dot.com"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/dot.exe"
       - "C:/Users/zhasanr/AppData/Local/Programs/Python/Python312/Scripts/dot"
@@ -8165,7 +8304,6 @@ events:
         - "C:\\Windows\\System32\\OpenSSH\\"
         - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Common Files\\AmazonMidwayClientSuite\\bin\\"
-        - "C:\\Program Files (x86)\\ACMEGuardian\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
@@ -8173,6 +8311,8 @@ events:
         - "C:\\Program Files\\Amazon\\FOPAzureADMAnagementApp\\"
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Quarantine\\"
+        - "C:\\Program Files\\Amazon\\Guardian\\"
+        - "C:\\Program Files\\Amazon\\ACME\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:\\Users\\zhasanr\\AppData\\Local\\Microsoft\\WindowsApps"
